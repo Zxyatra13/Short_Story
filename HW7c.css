@@ -1,0 +1,48 @@
+/* CSS document */
+
+
+h1{
+	color: black;
+	font-size: 400%;
+	font-weight: bolder;
+	text-align: center;
+	font-family: Zapfino;
+	}
+
+body{
+	background-image: url(orange.jpg);
+	margin-left: 0.5in;
+	margin-bottom: 01in;
+	margin-right: 0.5in;
+	margin-top: 00in;
+	}
+
+p{
+	font-size: 100%;
+	margin-left: 0.25in;
+	margin-right: 0.25in;
+	margin-top: 0.25in;
+
+	}
+
+img{
+	border: 2px solid black;
+	margin-left: 3in;
+	}
+div{
+	border: 2px solid black;
+	margin-left: 0.25in;
+	margin-right: 0.25in;
+	background-color: white;
+	}
+
+span{
+	color: #ff0000;
+	font-size: xx-large;
+	font-family: Zapfino;
+	line-height: 90%;
+	}
+
+
+
+
